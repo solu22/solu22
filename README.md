@@ -2,7 +2,7 @@
 
 <h1 align="center">नमस्कार :pray:</h1>
 <h1 align="center">HELLO :man:</h1>
-<h3 align="center">A passionate Developer from Kathmandu, Nepal</h3>
+<h3 align="center">I am Pasang, A passionate Developer from Kathmandu, Nepal</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
